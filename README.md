@@ -1,6 +1,6 @@
 ## Udacity Front-End Web Developer - Arcade Game Project
 This project was made to apply the technologies that I learned from the Udacity Front-End Web Developer Object Oriented JAvascript course.
-The starter code which is a static, non-interactive version of the project has downloaded through  https://github.com/mehmeteminduran/frontend-nanodegree-arcade-game and developed.
+The starter code which is a static, non-interactive version of the project has downloaded through  https://github.com/udacity/frontend-nanodegree-arcade-game and developed.
 
 ### Technologies used
 - HTML
